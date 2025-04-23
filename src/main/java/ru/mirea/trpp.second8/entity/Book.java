@@ -1,4 +1,4 @@
-package ru.mirea.trpp_second_8.entity;
+package ru.mirea.trpp.second8.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.opencsv.bean.CsvBindByName;
