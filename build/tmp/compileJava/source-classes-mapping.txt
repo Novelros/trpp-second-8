@@ -1,0 +1,10 @@
+ru/mirea/trpp.second8/entity/Book.java
+ ru.mirea.trpp.second8.entity.Book
+ru/mirea/trpp.second8/controllers/BookController.java
+ ru.mirea.trpp.second8.controllers.BookController
+ru/mirea/trpp.second8/Application.java
+ ru.mirea.trpp.second8.Application
+ru/mirea/trpp.second8/entity/HealthResponse.java
+ ru.mirea.trpp.second8.entity.HealthResponse
+ru/mirea/trpp.second8/controllers/HealthController.java
+ ru.mirea.trpp.second8.controllers.HealthController
