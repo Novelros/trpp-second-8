@@ -19,7 +19,11 @@ public class BookController {
 
     /** Конструктор. */
     public BookController() {
-        bookList = new CsvToBeanBuilder<Book>(new InputStreamReader(this.getClass().getResourceAsStream("/MOCK_DATA.csv"))).withType(Book.class).build().parse();
+        bookList = new CsvToBeanBuilder<Book>(
+            new InputStreamReader(
+                this.getClass().getResourceAsStream("/MOCK_DATA.csv")
+            )
+        ).withType(Book.class).build().parse();
     }
 
     /**
