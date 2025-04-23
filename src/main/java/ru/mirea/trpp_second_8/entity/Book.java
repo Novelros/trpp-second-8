@@ -12,7 +12,7 @@ import lombok.ToString;
 @ToString
 public class Book {
 
-    /** Идентификатор. */
+    /** Iдентификатор. */
     @JsonProperty("id")
     @CsvBindByName(column = "id")
     private Long id;
