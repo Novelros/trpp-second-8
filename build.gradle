@@ -36,7 +36,7 @@ dependencies {
 
 
 application {
-    mainClass.set("ru.mirea.trpp_second_8.Application")
+    mainClass.set("ru.mirea.trpp.second8.Application")
 }
 
 java {
